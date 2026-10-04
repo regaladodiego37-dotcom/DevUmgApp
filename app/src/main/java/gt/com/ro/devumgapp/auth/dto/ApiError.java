@@ -8,6 +8,8 @@ public class ApiError {
     @SerializedName("status")
     public Integer status;
 
+
+
     @SerializedName("error")
     public String error;
 
